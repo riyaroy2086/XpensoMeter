@@ -1,0 +1,8 @@
+# XpensoMeter
+echo "# XpensoMeter" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/riyaroy2086/XpensoMeter.git
+git push -u origin main
